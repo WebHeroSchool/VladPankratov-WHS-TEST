@@ -1,0 +1,4 @@
+1) Шрифты для дальнейшей работы
+https://fonts.google.com/?selection.family=Handlee|Lobster|Roboto:wght@700&sidebar.open=true
+2) Сайт Figma 
+https://www.figma.com/file/H7NsRZxv8vmiANqzFrFd6Q/1.-(CSS-final)?node-id=9%3A895

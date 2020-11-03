@@ -1,14 +1,29 @@
 body{
 	font-family: Helvetica;
 }
-.title{
+.logo{
+	font-family: Roboto;
+}
+.menu__item{
+	color: green;
+}
+.menu__item_color_purple{
+	color: purple;
+}
+.menu__item_color_red{
+	color: red;
+}
+.main-content__title{
 	font-family: Roboto;
 	color: #4212AF;
 }
-p{
+.main-content__description{
 	color: blue;
 	font-weight: bold;
 }
-[href] {
-	color: green;
+.main-content__button{
+	color: red;
+}
+button{
+	background: #FFDE40;
 }

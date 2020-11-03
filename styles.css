@@ -3,4 +3,12 @@ body{
 }
 .title{
 	font-family: Roboto;
+	color: #4212AF;
+}
+p{
+	color: blue;
+	font-weight: bold;
+}
+[href] {
+	color: green;
 }

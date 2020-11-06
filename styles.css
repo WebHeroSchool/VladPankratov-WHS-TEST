@@ -1,5 +1,5 @@
 body {
-  font-family: Helvetica;
+  font-family: Helvetica, 'PT Serif', sans-serif;
   border: dashed 1px red;
   margin: 0;
 }
@@ -29,14 +29,14 @@ body {
 }
 .logo {
   padding: 40px 0;
-  font-family: 'PT Serif';
+  font-family: 'PT Serif', serif;
   font-weight: bold;
   margin-right: 63%;
 }
 .main-content__title {
-  font-family: 'PT Serif';
+  font-family: 'PT Serif', serif;
   font-weight: bold;
 }
 .main-content__description {
-  font-family: 'Roboto';
+  font-family: 'Roboto', sans-serif;
 }

@@ -1,0 +1,68 @@
+@font-face {
+    font-family: 'pt_serifbold';
+    src: url('ptserif-bold-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'pt_serifbold_italic';
+    src: url('ptserif-bolditalic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'pt_serifitalic';
+    src: url('ptserif-italic-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'pt_serifregular';
+    src: url('ptserif-regular-webfont.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'robotobold';
+    src: url('Roboto-Bold-webfont.eot');
+    src: url('Roboto-Bold-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-Bold-webfont.woff2') format('woff2'),
+         url('Roboto-Bold-webfont.woff') format('woff'),
+         url('Roboto-Bold-webfont.ttf') format('truetype'),
+         url('Roboto-Bold-webfont.svg#robotobold') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'robotobold_italic';
+    src: url('Roboto-BoldItalic-webfont.eot');
+    src: url('Roboto-BoldItalic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-BoldItalic-webfont.woff2') format('woff2'),
+         url('Roboto-BoldItalic-webfont.woff') format('woff'),
+         url('Roboto-BoldItalic-webfont.ttf') format('truetype'),
+         url('Roboto-BoldItalic-webfont.svg#robotobold_italic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'robotoitalic';
+    src: url('Roboto-Italic-webfont.eot');
+    src: url('Roboto-Italic-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-Italic-webfont.woff2') format('woff2'),
+         url('Roboto-Italic-webfont.woff') format('woff'),
+         url('Roboto-Italic-webfont.ttf') format('truetype'),
+         url('Roboto-Italic-webfont.svg#robotoitalic') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'robotoregular';
+    src: url('Roboto-Regular-webfont.eot');
+    src: url('Roboto-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('Roboto-Regular-webfont.woff2') format('woff2'),
+         url('Roboto-Regular-webfont.woff') format('woff'),
+         url('Roboto-Regular-webfont.ttf') format('truetype'),
+         url('Roboto-Regular-webfont.svg#robotoregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

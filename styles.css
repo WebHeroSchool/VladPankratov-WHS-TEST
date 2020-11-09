@@ -4,31 +4,38 @@ body {
   width: 1920px;
   height: 1080px;
 }
+
 .header {
   padding: 40px 0;
   display: flex;
   justify-content: space-between;
 }
+
 .wrapper {
   margin: auto;
   width: 80%;
   border: dashed 1px red;
 }
+
 .logo,.menu {
   display: inline-block;
 }
+
 .menu {
   display: flex;
   align-items: center;
 }
+
 .menu__item:last-child {
   padding-right: 0;
 }
+
 .menu__item {
   padding: 0 13px;
   border: dashed 1px red;
   font: 500 18px/21px "Roboto", arial, helvetica, sans-serif;
 }
+
 .logo__circle {
   position: absolute;
   left: 0;
@@ -40,14 +47,17 @@ body {
   opacity: .7;
   border: dashed 1px red;
 }
+
 .logo__circle_color_dark_blue{
   background: #0056EC;
 }
+
 .logo__circle_color_blue {
   left: 8px;
   top: 56%;
   background: #C8DBFB;
 }
+
 .logo {
   position: relative;
   padding: 40px 0;
@@ -56,9 +66,11 @@ body {
   margin-right: 63%;
   border: dashed 1px red;
 }
+
 .main-content__title {
   font: bold 66px/87px "PT serif", arial, helvetica, sans-serif;
 }
+
 .main-content__description {
   font: 400 22px/26px "Roboto", arial, helvetica, sans-serif;
 }

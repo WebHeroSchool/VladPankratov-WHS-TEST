@@ -1,9 +1,11 @@
 body {
-  font-family: Helvetica, 'PT Serif', sans-serif;
   border: dashed 1px red;
   margin: 0;
+  width: 1920px;
+  height: 1080px;
 }
 .header {
+  padding: 40px 0;
   display: flex;
   justify-content: space-between;
 }
@@ -14,7 +16,6 @@ body {
 }
 .logo,.menu {
   display: inline-block;
-  border: dashed 1px red;
 }
 .menu {
   display: flex;
@@ -26,17 +27,38 @@ body {
 .menu__item {
   padding: 0 13px;
   border: dashed 1px red;
+  font:500 18px/21px "Roboto", arial, helvetica, sans-serif;
+}
+.logo__circle {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  transform: translateY(-50%);
+  width: 28px;
+  height: 28px;
+  border-radius: 50%;
+  opacity: .7;
+  border: dashed 1px red;
+}
+.logo__circle_color_dark_blue{
+  background: #0056EC;
+}
+.logo__circle_color_blue {
+  left: 8px;
+  top: 56%;
+  background: #C8DBFB;
 }
 .logo {
+  position: relative;
   padding: 40px 0;
-  font-family: 'PT Serif', serif;
-  font-weight: bold;
+  padding-left: 44px;
+  font: bold 24px/31px "PT serif", arial, helvetica, sans-serif;
   margin-right: 63%;
+  border: dashed 1px red;
 }
 .main-content__title {
-  font-family: 'PT Serif', serif;
-  font-weight: bold;
+  font: bold 66px/87px "PT serif", arial, helvetica, sans-serif;
 }
 .main-content__description {
-  font-family: 'Roboto', sans-serif;
+  font: 400 22px/26px "Roboto", arial, helvetica, sans-serif;
 }

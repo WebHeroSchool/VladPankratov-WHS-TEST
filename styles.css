@@ -27,7 +27,7 @@ body {
 .menu__item {
   padding: 0 13px;
   border: dashed 1px red;
-  font:500 18px/21px "Roboto", arial, helvetica, sans-serif;
+  font: 500 18px/21px "Roboto", arial, helvetica, sans-serif;
 }
 .logo__circle {
   position: absolute;

@@ -48,14 +48,14 @@ body {
   border: dashed 1px red;
 }
 
-.logo__circle_color_dark_blue{
-  background: #0056EC;
+.logo__circle_color_dark_blue {
+  background: #0056ec;
 }
 
 .logo__circle_color_blue {
   left: 8px;
   top: 56%;
-  background: #C8DBFB;
+  background: #c8dbfb;
 }
 
 .logo {

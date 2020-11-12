@@ -12,7 +12,7 @@ body { margin: 0; }
   border: dashed 1px red;
 }
 
-.logo,.menu {
+.logo, .menu {
   display: inline-block;
 }
 
@@ -33,7 +33,7 @@ body { margin: 0; }
   height: 3px;
   background: #0056ec;
   opacity: 0;
-  transition: opasity 0.5s;
+  transition: opacity 0.5s;
 }
 .menu__item:hover {
 opacity: 0.5;
@@ -54,10 +54,10 @@ opacity: 0.5;
 .menu__item {
   position: relative;
   margin: 26px;
-  color: #000000;
+  color: #000;
   text-decoration: none;
   border: dashed 1px red;
-  font: bold 18px/21px 'Roboto', arial, helvetica, sans-serif;
+  font: bold 18px/21px Roboto, arial, helvetica, sans-serif;
   transition: opacity 0.5s;
 }
 

@@ -1,5 +1,4 @@
-body { margin: 0;
-}
+body { margin: 0;}
 
 .header {
   display: flex;
@@ -8,9 +7,7 @@ body { margin: 0;
   margin: auto;
 }
 
-.logo,
-.menu {
-  display: inline-block;}
+.logo, .menu { display: inline-block;}
 
 .menu {
   display: flex;
@@ -18,9 +15,7 @@ body { margin: 0;
   padding: 5px 10px 0 0;
 }
 
-.menu__item:last-child {
-  margin-right: 0;
-}
+.menu__item:last-child { margin-right: 0;}
 
 .menu__item_active::after {
   position: absolute;
@@ -141,7 +136,7 @@ body { margin: 0;
   transition: opacity 0.5s;
 }
 
-.button, .main__button:hover {
+.main__button:hover {
   opacity: .5;
   background: rgba(0,0,0,0);
   color: red;

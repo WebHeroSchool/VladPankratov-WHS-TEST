@@ -1,11 +1,13 @@
 body { margin: 0; }
 
-.header {
-  display: flex;
-  justify-content: space-between;
+.wrapper {
   width: 80%;
-  margin: auto;
-}
+  margin: auto; }
+  
+.header {
+  margin-bottom: 132px;
+  display: flex;
+  justify-content: space-between; }
 
 .logo,
 .menu { display: inline-block; }
@@ -13,7 +15,7 @@ body { margin: 0; }
 .menu {
   display: flex;
   align-items: center;
-  padding: 5px 10px 0 0;
+  padding: 7px 12px 0 0;
 }
 
 .menu__item:last-child { margin-right: 0; }
@@ -73,7 +75,7 @@ body { margin: 0; }
 
 .logo__circle {
   position: absolute;
-  left: 5px;
+  left: 4px;
   top: 49%;
   transform: translateY(-50%);
   width: 28px;
@@ -94,26 +96,22 @@ body { margin: 0; }
 
 .logo {
   position: relative;
-  padding: 40px 0;
-  padding-left: 48px;
+  padding: 38px 0 40px 48px;
   font: 700 24px/32px pt_serifbold, arial, helvetica, sans-serif;
   color: #000;
 }
 
 .main {
-  padding: 130px 30px 0 0;
-  margin: auto;
-  width: 81%;
-}
+padding-left: 3px; }
 
 .main__image {
-  padding: 0 0 310px 20px;
-  background: url(img/frame.svg) top right no-repeat;
-}
+  background: url("img/frame.svg") top right no-repeat;
+  margin-right: 5px; }
 
 .main__text {
   max-width: 567px;
-  padding: 74px 0 0 7px;
+  margin: auto 0;
+  padding-top: 74px;
 }
 
 .main__title {

@@ -166,19 +166,16 @@ body {
 }
 
 @media (max-width: 1600px) {
-
-.wrapper {
-  width: 70%;
-}
+  .wrapper {
+    width: 70%;
+  }
 
   .main__description {
     margin: 0 161px 43px 0;
   }
-
 }
 
 @media (max-width: 1366px) {
-  
   .header {
     margin-bottom: 85px;
   }
@@ -427,7 +424,6 @@ body {
 }
 
 @media (max-width: 650px) {
-  
   .main__text {
     padding-top: 70%;
   }

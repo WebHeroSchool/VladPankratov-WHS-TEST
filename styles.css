@@ -166,7 +166,7 @@ body {
 }
 
 @media (max-width: 1600px) {
-
+  
   .wrapper {
     width: 70%;
   }
@@ -178,7 +178,7 @@ body {
 }
 
 @media (max-width: 1366px) {
-
+  
   .header {
     margin-bottom: 85px;
   }
@@ -263,7 +263,8 @@ body {
     padding: 9px 5px 0 0;
   }
 
-  .menu__item, .menu__item_active {
+  .menu__item,
+  .menu__item_active {
     font-size: 1.3671vw;
     line-height: 1.5625vw;
   }
@@ -426,7 +427,7 @@ body {
 }
 
 @media (max-width: 650px) {
-
+  
   .main__text {
     padding-top: 70%;
   }

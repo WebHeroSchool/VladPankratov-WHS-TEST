@@ -166,10 +166,10 @@ body {
 }
 
 @media (max-width: 1600px) {
-  
-  .wrapper {
-    width: 70%;
-  }
+
+.wrapper {
+  width: 70%;
+}
 
   .main__description {
     margin: 0 161px 43px 0;

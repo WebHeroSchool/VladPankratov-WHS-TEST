@@ -76,8 +76,7 @@ body {
   opacity: 1;
 }
 
-.menu__item,
-.menu__item_active {
+.menu__item {
   position: relative;
   margin-right: 26px;
   color: #000;

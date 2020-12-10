@@ -33,10 +33,6 @@ body {
   padding: 7px 12px 0 0;
 }
 
-.menu__item .menu__item:last-child {
-  margin-right: 0;
-}
-
 .menu__item_active::after {
   position: absolute;
   display: block;
@@ -88,6 +84,10 @@ body {
   text-decoration: none;
   font: 500 0.9375vw/1.0937vw Roboto, arial, helvetica, sans-serif;
   transition: opacity 0.5s;
+}
+
+.menu__item:last-child {
+  margin-right: 0;
 }
 
 .logo__circle {

@@ -284,7 +284,6 @@ body {
     line-height: 1.5625vw;
     padding: 14px 25px 12px 14px;
   }
-
 }
 
 @media (max-width: 768px) {
@@ -417,7 +416,6 @@ body {
     visibility: visible;
     left: 0;
   }
-
 }
 
 @media (max-width: 650px) {
@@ -432,10 +430,8 @@ body {
 }
 
 @media (max-width: 375px) {
-
-  .wrapper {
-    width: 100%;
-  }
+  
+  .wrapper { width: 100%; }
 
   .header {
     margin-bottom: 9px;
@@ -485,5 +481,4 @@ body {
   .main__image {
     background-size: 75%;
   }
-
 }

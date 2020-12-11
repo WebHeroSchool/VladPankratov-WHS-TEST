@@ -475,5 +475,6 @@ body {
 
   .main__image {
     background-size: 75%;
+    min-height: 579px;
   }
 }

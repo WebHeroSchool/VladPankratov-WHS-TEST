@@ -143,7 +143,7 @@ body {
 .main__description {
   font: 400 1.1458vw/1.3541vw Roboto, arial, helvetica, sans-serif;
   color: #000;
-  margin: 0 286px 43px 0;
+  margin: 0 286px 61px 0;
 }
 
 .main__button {
@@ -224,7 +224,7 @@ body {
     font-size: 1.3177vw;
     line-height: 1.5373vw;
     font-weight: 500;
-    margin: 0 72px 43px 0;
+    margin: 0 72px 56px 0;
   }
 
   .main__image {
@@ -240,7 +240,7 @@ body {
   .main__button {
     font-size: 1.0248vw;
     line-height: 1.1713vw;
-    padding: 14px 22px 12px 16px;
+    padding: 14px 26px 14px 16px;
   }
 }
 
@@ -275,13 +275,13 @@ body {
   .main__description {
     font-size: 1.7578vw;
     line-height: 2.0507vw;
-    margin: 0 72px 41px 0;
+    margin: 0 72px 56px 0;
   }
 
   .main__button {
     font-size: 1.3671vw;
     line-height: 1.5625vw;
-    padding: 14px 25px 12px 14px;
+    padding: 13px 25px 14px 16px;
   }
 }
 
@@ -465,12 +465,13 @@ body {
     line-height: 5.0666vw;
     text-align: center;
     width: 70%;
-    margin: auto auto 26px;
+    margin: auto auto 39px;
   }
 
   .main__button {
     font-size: 3.7333vw;
     line-height: 4.2666vw;
+    padding: 13px 27px 14px 13px;
   }
 
   .main__image {

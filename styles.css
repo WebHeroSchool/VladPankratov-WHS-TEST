@@ -81,7 +81,7 @@ body {
   margin-right: 26px;
   color: #000;
   text-decoration: none;
-  font: 500 0.9375vw/1.0937vw Roboto, arial, helvetica, sans-serif;
+  font: 500 0.9375vw/1.0937vw roboto, arial, helvetica, sans-serif;
   transition: opacity 0.5s;
 }
 
@@ -141,13 +141,13 @@ body {
 }
 
 .main__description {
-  font: 400 1.1458vw/1.3541vw Roboto, arial, helvetica, sans-serif;
+  font: 400 1.1458vw/1.3541vw roboto, arial, helvetica, sans-serif;
   color: #000;
   margin: 0 286px 61px 0;
 }
 
 .main__button {
-  font: 500 18px/21px Roboto, arial, helvetica, sans-serif;
+  font: 500 18px/21px roboto, arial, helvetica, sans-serif;
   color: #fff;
   background: #0056ec;
   padding: 17px 33px 17px 20px;
@@ -390,7 +390,7 @@ body {
     display: block;
     padding: 12px 24px;
     color: #000;
-    font-family: Roboto, sans-serif;
+    font-family: roboto, sans-serif;
     font-size: 8vw;
     line-height: 9.6vw;
     font-weight: 500;
